@@ -1,6 +1,6 @@
 ﻿using static System.Net.Mime.MediaTypeNames;
 
-namespace ConsoleApp6
+namespace ConsoleApp7
 {
     internal class Program
     {
